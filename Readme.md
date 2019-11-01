@@ -16,10 +16,13 @@ The 2010 data set is consist of 1461  house prices in Ames, Iowa. Each house has
 
 The executive presentation can be found in the powerpoint file
 
-### Chalenges/Future work
-It is hard to preprocess all 79 features without domain knowledge such as: what to fill in nan values, what to group by, what to exclude. 
+### Chalenges
+It is hard to preprocess and engineer all 79 features without domain knowledge such as: what to fill in nan values, what to group by, what to exclude. 
+
+### Future work
 The model can be recycled for a more updated version of the data. 
-It would be more interesting to see how the listing price changes over time. 
+
+It would be more interesting to see how the listing prices changes over time. 
 
 ## Link to Visualizations
 * [Tableau Public](https://public.tableau.com/profile/huy.bui#!/vizhome/HousePricesRegression/Story1?publish=yes)
