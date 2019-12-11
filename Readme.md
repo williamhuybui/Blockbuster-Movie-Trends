@@ -20,6 +20,13 @@ This [blog](https://dev.to/williamhuybui/blockbuster-movie-trends-h94) answer al
 * Scrapping: API request from https://www.themoviedb.org/
 * Python library: Pandas, bs4, sqlite3, requests,...
 
+## Get started
+
+1) Create the file `api_key.py`
+2) Go to https://www.themoviedb.org/ and request an `API token`
+3) In `api_key.py`, type `key = `Your API Token` `
+4) Run the `DataCollention notebook`
+
 ## Data
 https://www.themoviedb.org/
 
