@@ -1,31 +1,30 @@
 # Blockbuster Movie Trends
-This project is a part of the Data Science Cohort 082619 for [Flatiron School](http://flatironschool.com)
 
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
 
-If you want to buy a house in Ames, Iowa , give me as much the details of your dream house as you can. I will give you the estimation of your house with a very high accuracy. (Top 7% on Kaggle at the time completed) 
+The objective of this project is to find the trend of popular movies in the U.S. It answers 5 questions:
+1) What is the average profit and rating?
+2) Which MPAA rating attracts the most audience?
+3) When is the best time to release a movie?
+4) Best genres to invest
+5) Profit expectancy
+6) The association of genres and profit
+7) How many good actors should we hire?
+
+This [blog](https://dev.to/williamhuybui/blockbuster-movie-trends-h94) answer all of these questions with beautiful visualzation created by Tableau
 
 ### Technologies
-* Visualization on Tableau
-* Codes: on python, using pandas, numpy, sklearn, and other small libraries.
+* Visualization: Tableau
+* Scrapping: API request from https://www.themoviedb.org/
+* Python library: Pandas, bs4, sqlite3, requests,...
 
-## Project Description
-The 2010 data set is consist of 1461  house prices in Ames, Iowa. Each house has 79 features which almost describe all aspect of a house. The data can be found on [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) .
+## Data
+https://www.themoviedb.org/
 
-The executive presentation can be found in the powerpoint file
-
-### Chalenges
-It is hard to preprocess and engineer all 79 features without domain knowledge such as: what to fill in nan values, what to group by, what to exclude. 
-
-### Future work
-The model can be recycled for a more updated version of the data. 
-
-It would be more interesting to see how the listing prices changes over time. 
-
-## Link to Visualizations
-* [Tableau Public](https://public.tableau.com/profile/huy.bui#!/vizhome/HousePricesRegression/Story1?publish=yes)
+## Link to Presentation
+* [dev.to](https://dev.to/williamhuybui/blockbuster-movie-trends-h94)
 
 ## Contact
-* Huy Bui [Email](williamhuybui@gmail.com)
+* Email: williamhuybui@gmail.com
