@@ -1,3 +1,4 @@
+![time release](https://github.com/williamhuybui/Blockbuster-Movie-Trends/blob/master/Picture/theater.jpg)
 # Blockbuster Movie Trends
 
 #### -- Project Status: [Completed]
@@ -11,7 +12,7 @@ The objective of this project is to find the trend of popular movies in the U.S.
 
 The average rating is 6.845, ranging from 4.8 (Independent Day) to 8.3 (Inception).
 
-Avengers: Endgame unsurprisingly made more money than any movie in history with $2.4b in profit. The lowest one come from Dark Phoenix with $45m. The average profit of this top 220 movies is $538m
+Avengers: Endgame unsurprisingly made more money than any movie in history with $2.4b in profit. The lowest one comes from Dark Phoenix with $45m. The average profit of this top 220 movies is $538m
 
 #### 2) Which MPAA rating attracts the most audience?
 ![Movie type](https://github.com/williamhuybui/Blockbuster-Movie-Trends/blob/master/Picture/movie_type.png)
@@ -23,9 +24,9 @@ Teen friendly movies, PG-13, are top of the chart for the Motion Picture Associa
 
 The best months for going to the box office are :
 
-**Summer blockbusters**: May, June, July.
+**Summer blockbusters:** May, June, July.
 
-**Thanksgiving and Christmas** time: November, December.
+**Thanksgiving and Christmas time:**  November, December.
 
 #### 4) Best genres to invest
 
@@ -41,12 +42,12 @@ No 3: Animation-Family such as Lion King, Inside Out, Wall-E.
 
 ![actor](https://github.com/williamhuybui/Blockbuster-Movie-Trends/blob/master/Picture/top_actor.jpg)
 
-We define `good actor` by looking at their rank on imdb. For each movies, we extract the top 10 casts and check if they are in the top 1000 actor in the list. Some of the people on the list are: Jack Nicholson, Leonardo DiCaprio, Morgan Freeman.
+We define `good actor` by looking at their rank on IMDb. For each movie, we extract the top 10 casts and check if they are in the top 1000 actors on the list. Some of the people on the list are Jack Nicholson, Leonardo DiCaprio, Morgan Freeman.
 
 The graph shows that action, adventure, and family genres have an average of 5 A-rank actors. Interestingly, history movies have the most, 7 actors on average
 
 ## Data
-The data come from 220 top gross revenue movies from 2009 to 2019. This is obtained through the API requests from the [movies database](https://www.themoviedb.org/). Also, a list of the 1000 best actor is collected from imdb.
+The data come from 220 top gross revenue movies from 2009 to 2019. This is obtained through the API requests from the [movies database](https://www.themoviedb.org/). Also, a list of the 1000 best actor is collected from IMDb.
 
 ## Technologies
 * Python library: `Pandas`, , SQL by `sqlite3`.
