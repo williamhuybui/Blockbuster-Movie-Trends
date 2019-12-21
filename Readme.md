@@ -6,6 +6,9 @@
 
 The objective of this project is to find the trend of popular movies in the U.S. It answers 5 questions:
 1) What is the average profit and rating?
+
+[](https://github.com/williamhuybui/Blockbuster-Movie-Trends/tree/master/Picture/profit_rating.png)
+
 2) Which MPAA rating attracts the most audience?
 3) When is the best time to release a movie?
 4) Best genres to invest
