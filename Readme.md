@@ -6,7 +6,7 @@
 ## Project Intro/Objective
 The objective of this project is to find the trend of popular movies in the U.S. It answers 5 questions:
 
-#### 1) What is the average profit and rating?
+### 1) What is the average profit and rating?
 
 ![profit rating](https://github.com/williamhuybui/Blockbuster-Movie-Trends/blob/master/Picture/profit_rating.png)
 
@@ -14,12 +14,12 @@ The average rating is 6.845, ranging from 4.8 (Independent Day) to 8.3 (Inceptio
 
 Avengers: Endgame unsurprisingly made more money than any movie in history with $2.4b in profit. The lowest one comes from Dark Phoenix with $45m. The average profit of this top 220 movies is $538m
 
-#### 2) Which MPAA rating attracts the most audience?
+### 2) Which MPAA rating attracts the most audience?
 ![Movie type](https://github.com/williamhuybui/Blockbuster-Movie-Trends/blob/master/Picture/movie_type.png)
 
 Teen friendly movies, PG-13, are top of the chart for the Motion Picture Association of America (MPAA) rating with over 50% of the top-grossing movie market. The reason is simple, it has the widest range of audience.
 
-#### 3) When is the best time to release a movie
+### 3) When is the best time to release a movie
 ![time release](https://github.com/williamhuybui/Blockbuster-Movie-Trends/blob/master/Picture/time_release.png)
 
 The best months for going to the box office are :
@@ -28,7 +28,7 @@ The best months for going to the box office are :
 
 **Thanksgiving and Christmas time:**  November, December.
 
-#### 4) Best genres to invest
+### 4) Best genres to invest
 
 ![best genre](https://github.com/williamhuybui/Blockbuster-Movie-Trends/blob/master/Picture/best_genre.png)
 
@@ -38,7 +38,7 @@ No 2: Action-Fantasy such as Lord of the Rings, Maleficent, Star Wars.
 
 No 3: Animation-Family such as Lion King, Inside Out, Wall-E.
 
-#### 5) How many good actors should we hire?
+### 5) How many good actors should we hire?
 
 ![actor](https://github.com/williamhuybui/Blockbuster-Movie-Trends/blob/master/Picture/top_actor.jpg)
 
